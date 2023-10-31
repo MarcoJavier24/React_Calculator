@@ -1,2 +1,2 @@
-# React_Exercises
+# React_Calculator
 Exercises about react.
